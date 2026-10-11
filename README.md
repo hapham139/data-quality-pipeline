@@ -1,6 +1,6 @@
 # Online Retail Data Quality Pipeline
 
-A Phon project that reads the Online Retail Excel file,
+A Python project that reads the Online Retail Excel file,
 checks its rows, and saves the results in PostgreSQL.
 
 ## What it does
